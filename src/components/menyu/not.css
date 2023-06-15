@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ .not h1{
+    font-size: 400px;
+    margin-top: -1000px;
+    margin-left: 600px;
+    position: fixed;
+    font-family: sans-serif;
+    opacity: .2;
+}
+
+.peng{
+    width: 500px;
+    height: 100px;
+   margin: 0 auto;
+   position: fixed;
+   margin-top: -800px;
+   margin-left: 750px;
+ 
+
+}
+
+ .not h2{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+text-align: center;
+color: #000000;
+}
+
+.not p{
+    font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 154.5%;
+text-align: center;
+color: #595656;
+
+}
