@@ -92,7 +92,7 @@ const Layout = () => {
                 <li onClick={Click2}><Link to="/chat " className='a'><div className="dd"><img src={imgch1} alt="" className='pt1' /> <p>Chat</p></div></Link></li>
                 <li onClick={Click3}><Link to="/ " className='a'><div className="dd"><img src={imgch2} alt="" className='pt' /> <p>News</p></div></Link></li>
                 <li onClick={Click4}><Link to="/sale " className='a'><div className="dd"><img src={imgch3} alt="" className='pt' /> <p>Sale</p></div></Link></li>
-                <li onClick={Click5}><Link to="/ " className='a'><div className="dd"><img src={imgch4} alt="" className='pt4' /> <p>Settings</p></div></Link></li>
+                <li onClick={Click5}><Link to="/settings " className='a'><div className="dd"><img src={imgch4} alt="" className='pt4' /> <p>Settings</p></div></Link></li>
                 <div className="sur" style={{ marginTop: Top }}></div>
 
               </ul>

@@ -5,6 +5,7 @@ import Nav from "./components/navbar/Nav"
 import Menyu from "./components/menyu/Menyu"
 import Fut from "./components/futer/Fut"
 import Not from "./components/menyu/Not"
+import Seting from "./components/futer/Seting"
 
 
 
@@ -20,6 +21,8 @@ const App = () => {
               <Route index element={<Menyu/>}/>
               <Route path="/sale" element={<Fut/>}/>
               <Route path="*" element={<Not/>}/>
+              <Route path="/settings" element={<Seting/>}/>
+
 
 
              
