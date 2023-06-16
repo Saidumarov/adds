@@ -22,13 +22,6 @@ const App = () => {
               <Route path="/sale" element={<Fut/>}/>
               <Route path="*" element={<Not/>}/>
               <Route path="/settings" element={<Seting/>}/>
-
-
-
-             
-
-
-
             </Route>
         </Routes>
     
